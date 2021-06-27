@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "description": "Karianne",
+      "price": "2300"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "description": "shoes",
+      "price": "9000"
+    },
+    {
+      "name": "laiba",
+      "description": "laibayounas",
+      "price": "4500",
+      "id": 8
+    },
+    {
+      "name": "bag",
+      "description": "bagsss",
+      "price": "5000",
+      "id": 9
+    },
+    {
+      "name": "Black short",
+      "description": "with lines",
+      "price": "4500",
+      "id": 10
+    },
+    {
+      "name": "Yellow T-shirt",
+      "description": "so comfortable",
+      "price": "8900",
+      "id": 11
+    },
+    {
+      "name": "Red shirt",
+      "description": "bad",
+      "price": "8900",
+      "id": 12
+    }
+  ]
+}
